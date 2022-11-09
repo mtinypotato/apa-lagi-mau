@@ -7,7 +7,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._cassdsad
+_Get started using GitHub in less than an hour.edit on server
 
 <!-- 
   <<< Author notes: Start of the course >>> 
